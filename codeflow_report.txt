@@ -1,0 +1,4 @@
+CodeFlow report: safe_demo.py
+Flows found: 0
+
+No tainted flows detected.
